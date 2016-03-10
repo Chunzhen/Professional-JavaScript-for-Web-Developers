@@ -205,5 +205,6 @@ alert(s1.color); //undefined
 #####Global对象
 - 对URI进行编码的方法：encodeURI(), encodeURIComponent()；
 - 解码方法：decodeURI(), decodeURIComponent()
+
 #####Math对象
 max(), min(), ceil(), floor(), round(), random()
